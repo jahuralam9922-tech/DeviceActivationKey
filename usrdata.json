@@ -22,5 +22,11 @@
         "key": "mykey9810",
         "expirydate": "15-12-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "b2ea59f68cab4ac6",
+        "key": "kekey2222",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
 ]
