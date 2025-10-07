@@ -47,21 +47,12 @@
         "key": "key9810",
         "expirydate": "31-12-2026",
         "Allowoffline": true
-    },
-    
-     {
-        "device_id": "
-     {
-        "device_id": "9122e5a7f1eb10f5",
-        "key": "key9810",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
     }
-         
-     {
+      {
         "device_id": "b0ce2028f967644f",
-        "key": "key2255",
+        "key": "key1110",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+
 ]
